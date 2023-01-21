@@ -9,4 +9,11 @@ this project contains 25 questions in <strong>JS</strong>.
 </ul>
 
 <h5>link to the questions:</h5>
-<a href="https://applesseedsbootcamps.slack.com/files/U04G7KAH90W/F04KSDM1P3P/js_weekeded_excercise_2-ocr.pdf">click here</a>
+<img src="./assets/Q1.png"></img>
+<img src="./assets/Q2.1-2.3.png"></img>
+<img src="./assets/Q2.4-2.7.png"></img>
+<img src="./assets/Q3.1.png"></img>
+<img src="./assets/Q3.2.png"></img>
+<img src="./assets/Q4.1-4.2.png"></img>
+<img src="./assets/Q5.1-5.5.png"></img>
+<img src="./assets/Q5.6-5.8.png"></img>
