@@ -9,5 +9,4 @@ this project contains 25 questions in <strong>JS</strong>.
 </ul>
 
 <h5>link to the questions:</h5>
-<a href=""></a>
-<a hreh="https://applesseedsbootcamps.slack.com/files/U04G7KAH90W/F04KSDM1P3P/js_weekeded_excercise_2-ocr.pdf"></a>
+<a href="https://applesseedsbootcamps.slack.com/files/U04G7KAH90W/F04KSDM1P3P/js_weekeded_excercise_2-ocr.pdf">click here</a>
