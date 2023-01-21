@@ -17,3 +17,6 @@ this project contains 25 questions in <strong>JS</strong>.
 <img src="./assets/Q4.1-4.2.png"></img>
 <img src="./assets/Q5.1-5.5.png"></img>
 <img src="./assets/Q5.6-5.8.png"></img>
+<img src="./assets/Q6.1-6.3.png"></img>
+<img src="./assets/Q6.4.png"></img>
+<img src="./assets/Q7-8.png"></img>
